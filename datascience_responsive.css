@@ -1,0 +1,1132 @@
+/* .section0 {
+  display: none;
+}
+.section1 {
+  display: none;
+}
+.section2 {
+  display: none;
+}
+.section3 {
+  display: none;
+}
+.section4 {
+  display: none;
+}
+.section5 {
+  display: none;
+}
+.section6 {
+  display: none;
+}
+.section7 {
+  display: none;
+}
+.section8 {
+  display: none;
+}
+.section9 {
+  display: none;
+}
+.section10 {
+  display: none;
+}
+.section11 {
+  display: none;
+}
+.section12 {
+  display: none;
+}
+.section13 {
+  display: none;
+}
+.section14 {
+  display: none;
+}
+.section15 {
+  display: none;
+}
+.section16 {
+  display: none;
+} */
+
+@media (max-width: 1024px) {
+  /* section0 */
+  .section0 {
+    height: 57.71vh;
+  }
+  .dsimage1box {
+    height: 61.71vh;
+  }
+  /* section1 */
+  .dsheading1 {
+    font-size: 2.5rem;
+  }
+  .overview {
+    padding: 0rem 3rem;
+  }
+  .ovl {
+    font-size: 1.3rem;
+    padding: 0.3rem 0rem;
+  }
+  /* section2 */
+  .section2 {
+    padding: 1rem 2rem;
+    height: auto;
+    min-height: 64vh;
+  }
+  .formbox {
+    height: auto;
+    width: 100%;
+    padding: 20px;
+  }
+  .formbox2 {
+    max-width: 89.33vw;
+  }
+  .formheading {
+    font-size: 1.5rem;
+    padding-bottom: 15px;
+  }
+  .formheading2 {
+    font-size: 1.25rem;
+    padding-bottom: 15px;
+  }
+  .form1 {
+    gap: 20px;
+  }
+  .inputfield,
+  .inputfield2 {
+    width: 70%;
+  }
+  .form1submit {
+    width: 62.6vw;
+    min-width: 415px;
+    padding: 0 0;
+  }
+  /* section3 */
+  .dsheading2 {
+    font-size: 2rem;
+  }
+
+  .ov2 {
+    font-size: 1.25rem;
+  }
+
+  /* .key-features {
+    font-size: 1.8rem;
+  } */
+
+  .dsheading3 {
+    font-size: 1.8rem;
+  }
+
+  .kf1 {
+    font-size: 1.25rem;
+  }
+  /* section4 */
+  .section4 {
+    padding: 0rem 3rem;
+    font-size: 20px;
+  }
+
+  .skills-section {
+    padding: 0px 15px;
+  }
+
+  .skill {
+    min-width: 180px;
+    padding: 15px;
+  }
+
+  .dsheading4 {
+    font-size: 1.8rem;
+  }
+  /* section6 */
+  .dsheading6 {
+    font-size: 2rem; /* Slightly smaller font size */
+  }
+
+  .ep1 {
+    padding: 1rem 4rem; /* Adjust padding for better fit */
+  }
+
+  .epd1 {
+    font-size: 1.2rem; /* Smaller font size */
+  }
+
+  .ep-details-headings {
+    font-size: 1.5rem; /* Adjusted font size */
+  }
+
+  .ep-details-list {
+    font-size: 1.2rem; /* Adjusted font size */
+  }
+
+  .ep-details-list li {
+    font-size: 1.1rem; /* Slightly smaller font size */
+  }
+  /* section7 */
+  .section7 {
+    min-height: 100vh; /* Adjusted height */
+    padding-bottom: 20px; /* Increased padding for better spacing */
+    overflow-x: hidden;
+  }
+  .curri_headbox {
+    padding: 0px 58px;
+    width: 100vw;
+    min-width: 506px;
+
+    /* width: 20px; */
+    /* max-width: 507px; */
+  }
+  .curriculumbox {
+    padding: 0px 0px 0px 58px; /* Reduced padding */
+    /* width: 128vw; */
+    max-width: 862px;
+    /* max-width: ; */
+  }
+
+  .curriculam_heading {
+    height: auto; /* Allow height to adjust based on content */
+    width: 105vh;
+    min-width: 507px;
+  }
+
+  .curriculam_download {
+    padding: 4px 4px;
+    font-size: 1.1rem; /* Smaller font size for button text */
+  }
+
+  .curriculamtitle {
+    font-size: 1.5rem; /* Smaller title font size */
+    margin: 1.5rem 0; /* Adjusted margin */
+  }
+
+  .curriculum {
+    max-width: 80%; /* Adjusted width for better fit */
+    margin-top: 1.5rem; /* Adjusted margin */
+  }
+
+  .question1 h3 {
+    font-size: 1.3rem; /* Smaller font size for question */
+  }
+
+  .answer1 {
+    font-size: 0.9rem; /* Smaller font size for answer text */
+  }
+  /* section8 */
+  .ipheading {
+    font-size: 2rem; /* Smaller heading font size */
+  }
+  .iplists {
+    font-size: 1.3rem; /* Smaller list font size */
+    padding-left: 70px; /* Adjusted padding */
+  }
+  /* section9 */
+  .section9 {
+    padding: 3rem;
+  }
+  .learners-achive {
+    font-size: 2rem;
+  }
+  .labox1,
+  .labox2,
+  .labox3 {
+    width: 350px;
+    height: 190px;
+    padding-top: 40px;
+  }
+  .lasub {
+    font-size: 1.3rem;
+  }
+  .lapercent {
+    font-size: 2.5rem;
+  }
+  /* section10 */
+  .alumni {
+    font-size: 2rem;
+  }
+  .slide1,
+  .slide2 {
+    height: 80%;
+  }
+  /* section11 */
+  .section11 {
+    height: 1200px;
+    padding: 20px 10px;
+    padding-top: none;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .adfee {
+    font-size: 2rem;
+    padding: 10px;
+  }
+  .apply-title {
+    font-size: 2.5rem;
+  }
+  .programdetails {
+    font-size: 1.1rem;
+    padding-left: 205px;
+    width: 600px;
+  }
+  .finance-emi {
+    padding-top: 40px;
+  }
+  .nocost,
+  .cost {
+    font-size: 1.8rem;
+  }
+  .admissionfee {
+    width: 720px;
+    min-width: 412px;
+  }
+  .apdeadline {
+    font-size: 2.5rem;
+  }
+  /* section12 */
+  .section12 h1 {
+    font-size: 2em;
+  }
+
+  .section12 h2 {
+    font-size: 1.3em;
+  }
+
+  table {
+    font-size: 1.3rem;
+  }
+
+  .book_button {
+    width: 200px;
+    font-size: 0.9rem;
+  }
+  /* section13 */
+  .apply-container {
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+
+  .course-info {
+    padding: 15px;
+  }
+
+  .course-info h2 {
+    font-size: 1.6em;
+  }
+
+  .course-info ul li {
+    font-size: 1.1em;
+    margin-bottom: 10px;
+  }
+
+  .apply-form {
+    margin-top: 20px;
+    width: 64vw;
+  }
+
+  .apply-form h2 {
+    font-size: 1.6em;
+  }
+
+  .apply-form h3 {
+    font-size: 1.4em;
+  }
+  /* section14 */
+  .faqtitle {
+    font-size: 2rem;
+  }
+  .faq {
+    max-width: 80%;
+  }
+  .question2 h3 {
+    font-size: 1.3rem;
+  }
+  .answer2 {
+    font-size: 0.9rem;
+  }
+  /* section15 */
+  /* not neaded */
+  /* section16 */
+  .learnercard {
+    width: 400px;
+    height: 360px;
+  }
+  .cardbox::after {
+    width: 156px;
+    height: 360px;
+  }
+  .cardbox::before {
+    width: 156px;
+    height: 360px;
+  }
+  .learnerinfo h3 {
+    font-size: 1em;
+  }
+  .learnerinfo p {
+    font-size: 0.85em;
+  }
+  .learnertestimonial {
+    font-size: 1em;
+  }
+}
+
+/* For smaller mobile devices */
+@media (max-width: 768px) {
+  body{
+    width: 786px;
+    overflow-x: hidden;
+  }
+  /* section0 */
+  .section0 {
+    height: 43.71vh;
+  }
+  /* section1 */
+  .section1 {
+    width: 100vw;
+  }
+  .dsimage1box {
+    height: 50vh;
+  }
+  .dsheading1 {
+    font-size: 2rem;
+  }
+  .overview {
+    /* padding: 0rem 0.1rem; */
+  }
+  .ovl {
+    font-size: 1.2rem;
+    padding: 0.2rem 0rem;
+  }
+  /* section2 */
+  .section2 {
+    padding: 1rem;
+  }
+  .formbox {
+    height: auto;
+    width: 100%;
+    padding: 15px;
+  }
+  .formheading {
+    font-size: 1.25rem;
+    padding-bottom: 10px;
+  }
+  .formheading2 {
+    font-size: 1rem;
+    padding-bottom: 10px;
+  }
+  .inputfield,
+  .inputfield2 {
+    width: 56vw;
+  }
+  .form1submit {
+    width: 56vw;
+    min-width: 270px;
+  }
+  /* section3 */
+  .dsheading2 {
+    font-size: 1.5rem;
+  }
+
+  .ov2 {
+    font-size: 1.1rem;
+  }
+
+  /* .key-features {
+      font-size: 1.8rem;
+    } */
+
+  .dsheading3 {
+    font-size: 1.5rem;
+  }
+
+  .kf1 {
+    font-size: 1.1rem;
+  }
+  /* section4 */
+  .section4 {
+    padding: 0rem 2rem;
+    font-size: 18px;
+  }
+
+  .skills-section {
+    padding: 0px 10px;
+  }
+
+  .skill {
+    min-width: 150px;
+    padding: 10px;
+  }
+
+  .dsheading4 {
+    font-size: 1.6rem;
+  }
+  /* section6 */
+  .dsheading6 {
+    font-size: 1.8rem; /* Smaller font size */
+  }
+  .ep-details {
+    padding: 0px 60px;
+  }
+  .ep1 {
+    padding: 1rem 5.5rem; /* Adjust padding for better fit */
+  }
+
+  .epd1 {
+    font-size: 1.1rem; /* Smaller font size */
+  }
+
+  .ep-details-headings {
+    font-size: 1.3rem; /* Adjusted font size */
+  }
+
+  .ep-details-list {
+    font-size: 1.1rem; /* Adjusted font size */
+  }
+
+  .ep-details-list li {
+    font-size: 1rem; /* Smaller font size */
+  }
+  /* section7 */
+  .section7 {
+    width: 768px;
+    min-height: 90vh; /* Adjusted height for mobile */
+    padding-bottom: 20px; /* Consistent padding */
+  }
+
+  .curriculumbox {
+    padding-top: 15px; /* Reduced padding */
+  }
+
+  .curriculam_heading {
+    height: auto; /* Flexible height */
+    width: 88vw;
+    justify-content: space-around;
+  }
+
+  .curriculam_download {
+    padding: 6px 15px; /* Smaller padding for button */
+    font-size: 1.2rem; /* Reduced font size for button text */
+  }
+
+  .curriculamtitle {
+    font-size: 1.8rem; /* Smaller title font size */
+    margin: 1rem 0; /* Adjusted margin */
+  }
+
+  .curriculum {
+    max-width: 90%; /* Adjusted width for better fit */
+    margin-top: 1rem; /* Adjusted margin */
+  }
+
+  .question1 h3 {
+    font-size: 1.2rem; /* Smaller font size for question */
+  }
+
+  .answer1 {
+    font-size: 0.8rem; /* Smaller font size for answer text */
+  }
+  /* section8 */
+  .ipheading {
+    font-size: 1.8rem; /* Smaller heading font size */
+  }
+  .iplists {
+    font-size: 1.2rem; /* Smaller list font size */
+    padding-left: 50px; /* Adjusted padding */
+  }
+  /* section9 */
+  .section9 {
+    padding: 2rem;
+    height: auto;
+  }
+  .learners-achive {
+    font-size: 1.8rem;
+  }
+  .labox {
+    /* flex-direction: column; */
+    align-items: center;
+    gap: 16px;
+  }
+  .labox1,
+  .labox2,
+  .labox3 {
+    width: 284px;
+    height: 170px;
+    padding-top: 30px;
+  }
+  .lasub {
+    font-size: 1.2rem;
+  }
+  .lapercent {
+    font-size: 2rem;
+  }
+  /* section10 */
+  .alumni {
+    font-size: 1.8rem;
+  }
+  .slide1,
+  .slide2 {
+    height: 60%;
+  }
+  /* section11 */
+  .section11 {
+    height: auto;
+    padding: 20px 5px;
+  }
+  .adfee {
+    font-size: 1.8rem;
+    padding: 10px;
+  }
+  .apply-title {
+    font-size: 2rem;
+  }
+  .programdetails {
+    font-size: 1rem;
+    padding-left: 94px;
+  }
+  .finance-emi {
+    padding-top: 30px;
+  }
+  .nocost,
+  .cost {
+    font-size: 1.5rem;
+  }
+  .fpimages {
+    height: 100px;
+    width: 100px;
+  }
+  .apdeadline {
+    font-size: 2rem;
+  }
+  .admissionfee {
+    width: 650px;
+    min-width: 362px;
+  }
+  /* section12 */
+  .section12 h1 {
+    font-size: 1.8em;
+  }
+
+  .section12 h2 {
+    font-size: 1.2em;
+  }
+
+  table {
+    font-size: 1.2rem;
+  }
+
+  .cohort-info {
+    /* flex-direction: column; */
+    padding: 20px;
+  }
+
+  .book_button {
+    width: 180px;
+    font-size: 0.8rem;
+  }
+  /* section13 */
+  .apply-container {
+    padding: 15px;
+  }
+
+  .course-info h2 {
+    font-size: 1.4em;
+  }
+
+  .course-info ul li {
+    font-size: 1em;
+  }
+
+  .apply-form {
+    padding: 15px;
+    width: 76vw;
+  }
+
+  .apply-form h2 {
+    font-size: 1.4em;
+  }
+
+  .apply-form h3 {
+    font-size: 1.3em;
+  }
+
+  .apply-form form input,
+  .apply-form form textarea,
+  .apply-form form button {
+    width: 90%;
+  }
+  /* section14 */
+  .faqtitle {
+    font-size: 1.8rem;
+    margin: 1.5rem 0;
+  }
+  .faq {
+    max-width: 75%;
+  }
+  .question2 h3 {
+    font-size: 1.2rem;
+  }
+  .answer2 {
+    font-size: 0.85rem;
+  }
+  /* section15 */
+  /* not neaded */
+  /* section16 */
+  .learnercard {
+    width: 350px;
+    height: 295px;
+  }
+  .cardbox::after {
+    width: 156px;
+    height: 295px;
+  }
+  .cardbox::before {
+    width: 156px;
+    height: 295px;
+  }
+
+  .learnerinfo h3 {
+    font-size: 0.95em;
+  }
+  .learnerinfo p {
+    font-size: 0.8em;
+  }
+  .learnertestimonial {
+    font-size: 0.95em;
+  }
+}
+@media (max-width: 576px) {
+  .learnercard {
+    max-height: 40vh;
+    width: 75%;
+    /* height: 33vh; */
+    padding: 10px;
+  }
+  .learnerinfo h3 {
+    font-size: 0.85em;
+  }
+  .learnerinfo p {
+    font-size: 0.7em;
+  }
+  .learnertestimonial {
+    font-size: 0.85em;
+  }
+  .learnerprofile img {
+    width: 40px;
+    height: 40px;
+  }
+  .cardbox {
+    flex-direction: column;
+    align-items: center;
+    white-space: normal;
+  }
+  .cardbox::before,
+  .cardbox::after {
+    display: none;
+  }
+  .learnercard {
+    animation: none;
+  }
+}
+
+@media (max-width: 480px) {
+  /* section0 */
+  .section0 {
+    height: 35vh;
+  }
+  .dsimage1box {
+    height: 40vh;
+  }
+  /* section1 */
+  .dsheading1 {
+    font-size: 1.5rem;
+  }
+  .overview {
+    /* padding: 0rem 0.1rem; */
+  }
+  .ovl {
+    font-size: 1rem;
+    padding: 0.1rem 0rem;
+  }
+  /* section2 */
+  .section2 {
+    padding: 1rem;
+  }
+
+  .formbox {
+    width: 95vw;
+    border-radius: 1.5rem;
+    padding: 10px;
+  }
+
+  .formheading {
+    font-size: 1.2rem;
+    padding-bottom: 10px;
+  }
+
+  .formheading2 {
+    font-size: 1rem;
+    padding-bottom: 10px;
+  }
+
+  .inputfield {
+    width: 85vw;
+  }
+
+  .inputfield2 {
+    height: 50px;
+    width: 85vw;
+  }
+
+  .form1submit {
+    width: 85vw;
+    min-width: 155px;
+  }
+
+  /* section3 */
+  .dsheading2 {
+    font-size: 1.5rem;
+  }
+
+  .ov2 {
+    font-size: 1rem;
+  }
+
+  /* .key-features {
+        font-size: 1.8rem;
+      } */
+
+  .dsheading3 {
+    font-size: 1.6rem;
+  }
+
+  .kf1 {
+    font-size: 0.8rem;
+    padding: 0.2rem 0rem;
+  }
+  /* section4 */
+  .section4 {
+    padding: 0rem 1rem;
+    font-size: 16px;
+  }
+
+  .skills-section {
+    padding: 0px 5px;
+  }
+
+  .skill {
+    min-width: 120px;
+    padding: 8px;
+  }
+  .skill {
+    flex: 1 1 100%;
+  }
+
+  .dsheading4 {
+    font-size: 1.4rem;
+  }
+  /* section5 */
+  .section5 {
+    margin: 1.5rem 0rem; /* Reduced margin for smaller screens */
+  }
+
+  .dsheading5 {
+    font-size: 1.5rem; /* Smaller font size for better fit */
+    padding: 0.5rem 0rem; /* Reduced padding */
+  }
+
+  .tools-container {
+    gap: 20px; /* Reduced gap between tools */
+  }
+
+  .tool1,
+  .tool2,
+  .tool3,
+  .tool4,
+  .tool5,
+  .tool6,
+  .tool7,
+  .tool8,
+  .tool9,
+  .tool10,
+  /* .tool11, */
+  .tool12,
+  .tool13 {
+    min-width: 100px; /* Reduced minimum width for smaller screens */
+  }
+
+  .tool1 {
+    height: 50px; /* Adjusted height */
+  }
+  .tool2 {
+    height: 52px; /* Adjusted height */
+  }
+  .tool3 {
+    height: 55px; /* Adjusted height */
+  }
+  .tool4 {
+    height: 60px; /* Adjusted height */
+  }
+  .tool5 {
+    height: 45px; /* Adjusted height */
+  }
+  .tool6 {
+    height: 40px; /* Adjusted height */
+  }
+  .tool7 {
+    height: 45px; /* Adjusted height */
+  }
+  .tool8 {
+    height: 50px; /* Adjusted height */
+  }
+  .tool9 {
+    height: 50px; /* Adjusted height */
+  }
+  .tool10 {
+    height: 40px; /* Adjusted height */
+  }
+  .tool11 {
+    height: 40px;
+    width: 97px;
+    min-width: 50px;
+  }
+  .tool12 {
+    height: 55px; /* Adjusted height */
+  }
+  .tool13 {
+    height: 60px; /* Adjusted height */
+  }
+  /* section6 */
+  .dsheading6 {
+    font-size: 1.6rem; /* Smaller font size */
+  }
+
+  .ep1 {
+    padding: 1rem 3rem; /* Adjust padding for better fit */
+  }
+
+  .epd1 {
+    font-size: 1rem; /* Smaller font size */
+  }
+
+  .ep-details-headings {
+    font-size: 1.2rem; /* Adjusted font size */
+  }
+
+  .ep-details-list {
+    font-size: 1rem; /* Adjusted font size */
+  }
+
+  .ep-details-list li {
+    font-size: 0.9rem; /* Smaller font size */
+  }
+  /* section7 */
+  .section7 {
+    min-height: 80vh; /* Adjusted height for very small devices */
+    padding-bottom: 15px; /* Reduced padding */
+    width: 133vw;
+    overflow-x: hidden;
+  }
+  .curri_headbox {
+    padding: 0px 3px;
+    width: 125vw;
+  }
+  .curriculumbox {
+    padding-top: 10px; /* Reduced padding */
+    padding: 10px 1px 0px 5px;
+  }
+
+  .curriculam_heading {
+    height: auto; /* Flexible height */
+  }
+
+  .curriculam_download {
+    padding: 5px 10px; /* Smaller padding for button */
+    font-size: 1rem; /* Reduced font size for button text */
+  }
+
+  .curriculamtitle {
+    font-size: 1.6rem; /* Smaller title font size */
+    margin: 0.5rem 0; /* Adjusted margin */
+  }
+
+  .curriculum {
+    max-width: 100%; /* Full width for mobile fit */
+    margin-top: 0.5rem; /* Adjusted margin */
+  }
+
+  .question1 h3 {
+    font-size: 1rem; /* Smaller font size for question */
+  }
+
+  .answer1 {
+    font-size: 0.8rem; /* Smaller font size for answer text */
+  }
+  /* section8 */
+  .ipheading {
+    font-size: 1.5rem; /* Smaller heading font size */
+  }
+  .iplists {
+    font-size: 1rem; /* Smaller list font size */
+    padding-left: 30px; /* Adjusted padding */
+  }
+  /* section9 */
+  .section9 {
+    padding: 1rem;
+    height: auto; /* Adjust height to auto for better fit */
+  }
+  .learners-achive {
+    font-size: 1.5rem;
+  }
+  .labox {
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+  }
+  .labox1,
+  .labox2,
+  .labox3 {
+    width: 230px;
+    height: 120px;
+    padding-top: 20px;
+  }
+  .lasub {
+    font-size: 1rem;
+  }
+  .lapercent {
+    font-size: 1.5rem;
+  }
+  /* section10 */
+  .alumni {
+    font-size: 1.5rem;
+  }
+  .slide1,
+  .slide2 {
+    height: 50%;
+  }
+  .admissionfee {
+    width: 429px;
+    min-width: 362px;
+  }
+  /* section11 */
+  .section11 {
+    height: auto;
+    padding: 10px 5px;
+  }
+  .adfee {
+    font-size: 1.5rem;
+    padding: 5px;
+  }
+  .apply-title {
+    font-size: 1.5rem;
+  }
+  .apply {
+    flex-direction: column;
+    padding: 20px 10px;
+  }
+  .apply button {
+    font-size: 1rem;
+    padding: 10px;
+  }
+  .programdetails {
+    font-size: 0.9rem;
+    padding-left: 92px;
+    width: 350px;
+  }
+  .finance-emi {
+    padding-top: 20px;
+  }
+  .nocost,
+  .cost {
+    font-size: 1.2rem;
+  }
+  .fpimages {
+    height: 80px;
+    width: 80px;
+  }
+  .apdeadline {
+    font-size: 1.5rem;
+  }
+  /* section12 */
+  .section12 h1 {
+    font-size: 1.5em;
+    padding-bottom: 20px;
+  }
+  .cohort-name {
+    font-size: 0.9rem;
+  }
+
+  .section12 h2 {
+    font-size: 1em;
+  }
+
+  table {
+    font-size: 1rem;
+  }
+
+  th,
+  td {
+    padding: 8px;
+  }
+
+  .book_button {
+    width: 150px;
+    font-size: 0.8rem;
+  }
+  /* section13 */
+  .applie {
+    font-size: 2rem;
+  }
+
+  .apply-container {
+    padding: 10px;
+  }
+
+  .course-info h2 {
+    font-size: 1.2em;
+  }
+
+  .course-info ul li {
+    font-size: 0.9em;
+  }
+
+  .apply-form {
+    padding: 10px;
+    width: 88vw;
+  }
+
+  .apply-form h2 {
+    font-size: 1.2em;
+  }
+
+  .apply-form h3 {
+    font-size: 1.1em;
+  }
+
+  .apply-form form input,
+  .apply-form form textarea,
+  .apply-form form button {
+    width: 100%;
+  }
+  /* section14 */
+  .faqtitle {
+    font-size: 1.5rem;
+    margin: 1rem 0;
+  }
+  .faq {
+    max-width: 80%;
+  }
+  .question2 h3 {
+    font-size: 1rem;
+  }
+  .answer2 {
+    font-size: 0.8rem;
+  }
+  /* section15 */
+  /* not neaded */
+  /* section16 */
+}

@@ -1,0 +1,179 @@
+.slider2 {
+  overflow: hidden;
+  padding: 60px 0;
+  /* background-color: grey; */
+  white-space: nowrap;
+  display: flex;
+  position: relative;
+}
+.slider2::before,
+.slider2::after {
+  content: "";
+  height: 100px;
+  position: absolute;
+  width: 200px;
+  z-index: 2;
+}
+.slider2::before {
+  left: 0;
+  background: linear-gradient(to right, #fff, rgba(255, 255, 255, 0));
+}
+.slider2::after {
+  right: 0;
+  background: linear-gradient(to left, #fff, rgba(255, 255, 255, 0));
+}
+.slide-track2 {
+  height: 200px;
+  width: auto;
+  display: flex;
+  animation: ann2 10s linear infinite;
+}
+.slide-track2 {
+  /* display: inline-block; */
+}
+.slider2:hover .slide-track2 {
+  animation-play-state: paused;
+}
+.slide2 {
+  height: 200px;
+  margin: 0 20px;
+}
+
+@keyframes ann2 {
+  from {
+    transform: translateX(-100%);
+
+  }
+  to {
+    transform: translateX(0);
+
+  }
+}
+
+
+<div class="slider2">
+                <div class="slide-track2">
+                    <div class="slide2">
+                        <img alt
+                             height="100"
+                             src="./images/Amazon_logo._CB635397845.png"
+                             width="250" />
+                    </div>
+                    <div class="slide2">
+                        <img alt
+                             height="100"
+                             src="./images/Capgemini.png"
+                             width="250" />
+                    </div>
+                    <div class="slide2">
+                        <img alt
+                             height="100"
+                             src="./images/Flipkart.png"
+                             width="250" />
+                    </div>
+                    <div class="slide2">
+                        <img alt
+                             height="100"
+                             src="./images/Adobe_logo.png"
+                             width="250" />
+                    </div>
+                    <div class="slide2">
+                        <img alt
+                             height="100"
+                             src="./images/BharatPe.png"
+                             width="250" />
+                    </div>
+                    <div class="slide2">
+                        <img alt
+                             height="100"
+                             src="./images/Cred.png"
+                             width="250" />
+                    </div>
+                    <div class="slide2">
+                        <img alt
+                             height="100"
+                             src="./images/ADP.png"
+                             width="250" />
+                    </div>
+                    <div class="slide2">
+                        <img alt
+                             height="100"
+                             src="./images/Accenture.png"
+                             width="250" />
+                    </div>
+                    <div class="slide2">
+                        <img alt
+                             height="100"
+                             src="./images/TCS.png"
+                             width="250" />
+                    </div>
+                    <div class="slide2">
+                        <img alt
+                             height="100"
+                             src="./images/infosys-logo-PNG.png"
+                             width="250" />
+                    </div>
+                </div>
+                <div class="slide-track2">
+                    <div class="slide2">
+                        <img alt
+                             height="100"
+                             src="./images/Amazon_logo._CB635397845.png"
+                             width="250" />
+                    </div>
+                    <div class="slide2">
+                        <img alt
+                             height="100"
+                             src="./images/Capgemini.png"
+                             width="250" />
+                    </div>
+                    <div class="slide2">
+                        <img alt
+                             height="100"
+                             src="./images/Flipkart.png"
+                             width="250" />
+                    </div>
+                    <div class="slide2">
+                        <img alt
+                             height="100"
+                             src="./images/Adobe_logo.png"
+                             width="250" />
+                    </div>
+                    <div class="slide2">
+                        <img alt
+                             height="100"
+                             src="./images/BharatPe.png"
+                             width="250" />
+                    </div>
+                    <div class="slide2">
+                        <img alt
+                             height="100"
+                             src="./images/Cred.png"
+                             width="250" />
+                    </div>
+                    <div class="slide2">
+                        <img alt
+                             height="100"
+                             src="./images/ADP.png"
+                             width="250" />
+                    </div>
+                    <div class="slide2">
+                        <img alt
+                             height="100"
+                             src="./images/Accenture.png"
+                             width="250" />
+                    </div>
+                    <div class="slide2">
+                        <img alt
+                             height="100"
+                             src="./images/TCS.png"
+                             width="250" />
+                    </div>
+                    <div class="slide2">
+                        <img alt
+                             height="100"
+                             src="./images/infosys-logo-PNG.png"
+                             width="250" />
+                    </div>
+                </div>
+            </div>
